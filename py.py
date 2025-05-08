@@ -2,7 +2,7 @@ from moviepy.editor import *
 import numpy as np
 
 # Путь к изображению
-img_path = "skeleton.png"  # Замени на своё имя файла
+img_path = "6F05D935-D1A3-40C1-A353-EB37F3444231.png"  # Замени на своё имя файла
 
 # Длительность анимации
 duration = 6
